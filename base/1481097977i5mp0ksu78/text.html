@@ -1,0 +1,9 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'DejaVu Sans'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="justify" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">В Windows функция автоподстройки по-умолчанию включена. Эта функция может выступать одной из причин из-за которой некоторые отдельные сайты или интернет-сервисы могу медленно грузиться, поскольку эта функция неэффективно работает с большим числом различных по скорости доступа серверов. Для того чтобы отключить автоподстройку ТСР необходимо от имени администратора запустить командную строку и ввести в нее следующую команду:</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">	netsh interface tcp set global autotuninglevel=disabled</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Далее необходимо закрыть командную строку и перезагрузить компьютер для того чтобы изменения вступили в силу.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Для того чтобы вернуть обратно автоподстройку ТСР необходимо в командной строке (запущенной от имени администратора) ввести следующую команду:</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">	netsh interface tcp set global autotuninglevel=normal</p></body></html>

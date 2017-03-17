@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1481097673zuq6fy3vsl" name="Windows">
+   <recordtable>
+    <record id="14810978835dxn9iatur" name="Отключение предупреждений при открытии exe файлов" author="Ackbar" url="" tags="windows полезности" ctime="20161207140443" dir="1481097883861ksddgjy" file="text.html"/>
+    <record id="1481097977e77p576zg5" name="Отключение автоподстройки ТСР" author="Ackbar" url="" tags="windows полезности" ctime="20161207140617" dir="1481097977i5mp0ksu78" file="text.html"/>
+    <record id="14810980781k63yu85m3" name="Удаление windows.old и других ненужных файлов" author="Ackbar" url="" tags="windows полезности, windows.old" ctime="20161207140758" dir="1481098078tfep6uxns5" file="text.html"/>
+    <record id="1481098216e32wncmwgu" name="Отключение предупреждений Word" author="Ackbar" url="" tags="windows полезности, предупреждения word" ctime="20161207141016" dir="1481098216uakze223sk" file="text.html"/>
+    <record id="148109884370rnrw40ph" name="Убрать резервирование пропускной способности сети QOS" author="Ackbar" url="" tags="Windows полезности" ctime="20161207142043" dir="1481098843em3fi6spjn" file="text.html"/>
+    <record id="1481098901vtht9dvh3b" name="Включение telnet через консоль" author="Ackbar" url="" tags="windows полезности, telnet" ctime="20161207142141" dir="1481098901hkpqq81a2x" file="text.html"/>
+    <record id="1486698626gnpjfx5xum" name="Включение IP 6 (?)" author="" url="" tags="Windows полезности" ctime="20170210095026" dir="1486698626gya2trmuuk" file="text.html"/>
+    <record id="1486905435mvfpj1zxfe" name="Запуск веб-серверов" author="" url="" tags="веб-сервер" ctime="20170212191715" dir="1486905435xh9reqmdwx" file="text.html"/>
+    <record id="1489671201d6yz9cehgt" name="Destroy Windows Spying" author="" url="" tags="windows" ctime="20170316193321" dir="1489671201jbvbuzdyx5" file="text.html"/>
+    <record id="14896713126ixi3fm4q3" name="Кеш обновлений Windows" author="" url="" tags="windows" ctime="20170316193512" dir="1489671312m6bi3yugv0" file="text.html"/>
+    <record id="1489671948p8v0nnx6tw" name="Restore Point Creator" author="" url="" tags="windows, backup" ctime="20170316194548" dir="1489671948r399doikig" file="text.html"/>
+    <record id="14896720934287g4wwr4" name="MAX SyncUp" author="" url="" tags="windows, backup, synchronization" ctime="20170316194813" dir="1489672093ioeusaxa76" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1481098485oemytoreia" name="Разное">
+   <recordtable>
+    <record id="1481098623lgkp5886h5" name="Коды обучающих заданий CheatEngine" author="Ackbar" url="" tags="CheatEngine" ctime="20161207141703" dir="14810986234hncuv88x5" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1481097653358imfeiaq" name="Переименуй меня"/>
+  <node crypt="" id="1486904136txc2ox4xa0" name="Игры">
+   <recordtable>
+    <record id="14869041873c9ydj5pxa" name="Borderlands 2 / Pre-Sequel" author="" url="" tags="оптимизация графики" ctime="20170212185627" dir="1486904187xsv7em1ppt" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1486905490iwvrjcc4er" name="Программирование">
+   <node crypt="" id="1486905505st0hoauigj" name="SQL">
+    <recordtable>
+     <record id="1486905539d83jw1uxsd" name="запрос для мамы" author="" url="" tags="" ctime="20170212191859" dir="14869055396btib71hos" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+ </content>
+</root>
